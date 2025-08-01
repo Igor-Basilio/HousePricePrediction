@@ -1,0 +1,4 @@
+/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/CMakeFiles/protos.dir
+/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/CMakeFiles/dhp_client.dir
+/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/CMakeFiles/edit_cache.dir
+/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/CMakeFiles/rebuild_cache.dir

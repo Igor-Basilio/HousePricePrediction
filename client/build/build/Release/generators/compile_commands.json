@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/protos.dir/endpoints.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.pb.cc",
+  "output": "CMakeFiles/protos.dir/endpoints.pb.cc.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/protos.dir/example2.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.pb.cc",
+  "output": "CMakeFiles/protos.dir/example2.pb.cc.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/protos.dir/endpoints.grpc.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.grpc.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.grpc.pb.cc",
+  "output": "CMakeFiles/protos.dir/endpoints.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/protos.dir/example2.grpc.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.grpc.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.grpc.pb.cc",
+  "output": "CMakeFiles/protos.dir/example2.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/dhp_client.dir/src/main.cpp.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/src/main.cpp",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/src/main.cpp",
+  "output": "CMakeFiles/dhp_client.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/dhp_client.dir/endpoints.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.pb.cc",
+  "output": "CMakeFiles/dhp_client.dir/endpoints.pb.cc.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/dhp_client.dir/endpoints.grpc.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.grpc.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/endpoints.grpc.pb.cc",
+  "output": "CMakeFiles/dhp_client.dir/endpoints.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/dhp_client.dir/example2.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.pb.cc",
+  "output": "CMakeFiles/dhp_client.dir/example2.pb.cc.o"
+},
+{
+  "directory": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DLZMA_API_STATIC -DPCRE2_STATIC -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/include -I/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators -isystem /home/Igor/.conan2/p/b/grpc4476e4ecef39b/p/include -isystem /home/Igor/.conan2/p/b/absei0ae0473405a93/p/include -isystem /home/Igor/.conan2/p/b/zlib5469ac630c9be/p/include -isystem /home/Igor/.conan2/p/b/proto8f407a57f53e3/p/include -m64 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/dhp_client.dir/example2.grpc.pb.cc.o -c /home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.grpc.pb.cc",
+  "file": "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/example2.grpc.pb.cc",
+  "output": "CMakeFiles/dhp_client.dir/example2.grpc.pb.cc.o"
+}
+]

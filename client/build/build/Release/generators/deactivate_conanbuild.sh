@@ -1,0 +1,1 @@
+. "/home/Igor/Projects/c++/distributed_house_price_prediction_service/client/build/build/Release/generators/deactivate_conanbuildenv-release-x86_64.sh"

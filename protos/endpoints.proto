@@ -1,0 +1,21 @@
+
+syntax="proto3";
+
+service house_prediction 
+{
+  rpc PredictPrice_L (PredictionRequest) returns (PredictionReply) {}
+  rpc Ping (ping_) returns (pong_) {}
+}
+
+message ping_ {}
+message pong_ { string msg = 1; }
+
+message PredictionRequest {
+  string location = 1;
+  float  area = 2; 
+}
+
+message PredictionReply {
+  float price = 1;
+}
+

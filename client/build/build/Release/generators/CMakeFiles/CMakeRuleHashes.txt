@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+0d1aee5d8996045e3ca66ec9b3515bb6 endpoints.grpc.pb.h
+5e709902689960fea1820251b9e5e574 endpoints.pb.h
+2c71f90f96716918937dcfc2c58f100f example2.grpc.pb.h
+d2e93f8ef0bf9c70c60b8bc3a2e5cba3 example2.pb.h
